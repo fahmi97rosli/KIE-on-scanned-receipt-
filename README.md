@@ -1,10 +1,11 @@
-## Key Information Extraction of Scanned Receipt Using PP-Structure of PaddleOCR
+# Key Information Extraction of Scanned Receipt Using PP-Structure of PaddleOCR
 * Use of SROIE dataset
 
 receipt
+## Introduction
 
-# Data Annotation
+## Data Annotation
 
-# Fine Tuning PP-Structure
+## Fine Tuning PP-Structure
 
-# Testing Model
+## Testing Model
