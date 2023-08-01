@@ -21,7 +21,7 @@ Architecture:
   Backbone:
     name: LayoutLMv2ForSer
     pretrained: True
-    checkpoints: /content/PaddleOCR/trained_model/output/ser_layoutlmv2_SROIE/best_accuracy
+    checkpoints: /content/PaddleOCR/output/ser_layoutlmv2_SROIE/best_accuracy
     num_classes: &num_classes 11
 
 Loss:
