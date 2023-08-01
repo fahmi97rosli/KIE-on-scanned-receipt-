@@ -4,8 +4,14 @@
 receipt
 ## Introduction
 
-## Data Annotation
+## Data Preparation
 
 ## Fine Tuning PP-Structure
+
+* Prepare Environment
+  
+* Loading Dataset
+  
+* Fine Tuning Model
 
 ## Testing Model
