@@ -60,3 +60,6 @@ Make directory and loading data
 ## Fine Tuning Model
 
 # Testing Model
+
+# Reference
+Tutorial for KIE with PaddleOCR : https://github.com/PaddlePaddle/PaddleOCR/blob/release/2.6/doc/doc_ch/kie.md
