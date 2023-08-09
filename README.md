@@ -9,7 +9,7 @@ receipt
 # 3. Fine Tuning PP-Structure
 
 ## Prepare Environment
-Using google colab
+Using Google Colab
 - Colab Link: https://colab.research.google.com/drive/1Vm-o4nbitV5muoxlJJ03B0pAWqYYg5K_?usp=sharing
 
 Cloning files from GitHub repositories
