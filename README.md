@@ -2,11 +2,11 @@
 * Use of SROIE dataset
 
 receipt
-# Introduction
+# 1. Introduction
 
-# Data Preparation
+# 2. Data Preparation
 
-# Fine Tuning PP-Structure
+# 3. Fine Tuning PP-Structure
 
 ## Prepare Environment
 Using google colab
@@ -59,7 +59,7 @@ Make directory and loading data
 
 ## Fine Tuning Model
 
-# Testing Model
+# 4. Testing Model
 
-# Reference
+# 5. Reference
 Tutorial for KIE with PaddleOCR : https://github.com/PaddlePaddle/PaddleOCR/blob/release/2.6/doc/doc_ch/kie.md
