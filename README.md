@@ -2,15 +2,16 @@
 * Use of SROIE dataset
 
 receipt
-## Introduction
+# Introduction
 
-## Data Preparation
+# Data Preparation
 
-## Fine Tuning PP-Structure
+# Fine Tuning PP-Structure
 
-* Prepare Environment
+## Prepare Environment
 Using google colab
-Colab Link: https://colab.research.google.com/drive/1Vm-o4nbitV5muoxlJJ03B0pAWqYYg5K_?usp=sharing
+- Colab Link: https://colab.research.google.com/drive/1Vm-o4nbitV5muoxlJJ03B0pAWqYYg5K_?usp=sharing
+
 Cloning files from GitHub repositories
 ```
 # Cloning GitHub repositories from PaddleOCR
@@ -41,9 +42,11 @@ import paddle
 paddle.utils.run_check()
 ```
 
-* Loading Dataset
+## Loading Dataset
 Data formatting for using PP-Structure
+
 Dictionary file and label
+
 Make directory and loading data
 ```
 !mkdir train_data
@@ -53,6 +56,6 @@ Make directory and loading data
 !wget https://www.dropbox.com/s/wvgcv4czqyfpako/wildreceipt.tar?dl=0 && tar -xf wildreceipt.tar?dl=0
 ```
 
-* Fine Tuning Model
+## Fine Tuning Model
 
-## Testing Model
+# Testing Model
