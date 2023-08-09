@@ -42,7 +42,17 @@ paddle.utils.run_check()
 ```
 
 * Loading Dataset
-  
+Data formatting for using PP-Structure
+Dictionary file and label
+Make directory and loading data
+```
+!mkdir train_data
+%cd train_data
+# download and uncompress the dataset
+# SROIE data final
+!wget https://www.dropbox.com/s/wvgcv4czqyfpako/wildreceipt.tar?dl=0 && tar -xf wildreceipt.tar?dl=0
+```
+
 * Fine Tuning Model
 
 ## Testing Model
